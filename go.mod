@@ -1,3 +1,5 @@
-module github.com/ProgrammerZamanNow/go-say-hello/v2
+module github.com/hafizarr/go-say-hello
 
-go 1.15
+go 1.21.1
+
+// go mod init github.com/hafizarr/go-say-hello
